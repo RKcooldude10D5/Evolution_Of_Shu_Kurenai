@@ -1,0 +1,15 @@
+.body_backgorund 
+{
+    background-color:yellow;
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-family:Arial;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:dashed;
+    border-color: red;
+}
